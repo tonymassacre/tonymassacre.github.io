@@ -1,0 +1,14 @@
+title: Tony Massacre
+email: businessinquiry@tonymassacre.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A passionate musician who enjoys the depths of lyrical poetry and thought.
+baseurl: ""
+url: "https://tonymassacre.github.io/" 
+twitter_username: tony_massacre
+github_username:  tonymassacre
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
