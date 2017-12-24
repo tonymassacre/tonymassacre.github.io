@@ -1,12 +1,12 @@
 source "https://rubygems.org"
 
-gem "minima", "~> 2.0"
+gem "minima", "~> 2.1.1"
 
 gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.9.2"
+  gem "jekyll-feed", "~> 0.2.3"
   gem "jekyll-seo-tag"
 end
 
