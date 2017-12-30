@@ -4,4 +4,4 @@ title: Discography
 permalink: /discography/
 ---
 
-Content **coming soon**
+**Content Coming Soon**
